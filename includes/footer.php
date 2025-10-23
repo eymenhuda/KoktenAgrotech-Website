@@ -21,7 +21,7 @@
         </div>
         <div class="footer-section social">
             <h4>Bizi Takip Edin</h4>
-             <a href="https://www.facebook.com/people/Kökten-Tarım-Makinaları/61579927850053/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.facebook.com/people/Kökten-Tarım-Makinaları/61579927850053/" target="_blank"><i class="fab fa-facebook-f"></i></a>
             <a href="https://www.tiktok.com/@koktenagrotech" target="_blank"><i class="fab fa-tiktok"></i></a>
             <a href="https://www.instagram.com/koktenagrotech" target="_blank"><i class="fab fa-instagram"></i></a>
          
@@ -32,5 +32,6 @@
     </div>
 </footer>
 <script src="assets/js/main.js"></script>
+<link rel="stylesheet" href="assets/css/footer_css.css">
 </body>
 </html>
