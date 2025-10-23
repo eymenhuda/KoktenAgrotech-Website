@@ -1,0 +1,23 @@
+.main-header {
+    background-color: var(--white-color);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.main-header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-contact {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+.header-contact i {
+    margin-right: 5px;
+}
