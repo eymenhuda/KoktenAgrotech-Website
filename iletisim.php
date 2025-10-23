@@ -25,7 +25,7 @@
 </div>
  <div class="map-container">
         <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d261.35524196340543!2d31.80026996676108!3d39.02213262733621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1str!2str!4v1761130943811!5m2!1str!2str" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3995.696979918988!2d31.800432899999997!3d39.0223343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d1fb4dcbb050ab%3A0x48906409341546a8!2sK%C3%B6kten%20Agrotech%20%26%20Trailer%20Solutions!5e1!3m2!1str!2str!4v1761259919262!5m2!1str!2str" 
             allowfullscreen="" 
             loading="lazy" 
             referrerpolicy="no-referrer-when-downgrade">
